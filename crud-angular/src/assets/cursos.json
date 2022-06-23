@@ -1,0 +1,7 @@
+[
+  { "_id": "1", "nome": "Angular", "categoria": "front-end"},
+  { "_id": "2", "nome": "C#", "categoria": "back-end"},
+  { "_id": "3", "nome": ".Net Core", "categoria": "back-end"},
+  { "_id": "4", "nome": "Java", "categoria": "back-end"},
+  { "_id": "5", "nome": "JavaScript", "categoria": "front-end"}
+]
